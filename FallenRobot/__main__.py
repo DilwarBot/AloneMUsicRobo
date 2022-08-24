@@ -838,7 +838,7 @@ def main():
 ㅤ✯ **ᴩʏʀᴏɢʀᴀᴍ :** `{pyrover}`
 ━━━━━━━━━━━━━
 
-ᴍᴀᴅᴇ ʙʏ [Sᴜᴋᴜɴ](https://t.me/Bhumi_ha_r)""",
+ᴍᴀᴅᴇ ʙʏ [ʀᴏᴍᴀɴᴛɪᴄ ʙᴀɴᴅᴀ](https://t.me/{OWNER_USERNAME})""",
                 parse_mode=ParseMode.MARKDOWN,
             )
         except Unauthorized:
