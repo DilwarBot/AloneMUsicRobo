@@ -1,14 +1,14 @@
 ━━━━━━━━━━━━━━━━━━━━
 
 <h2 align="center">
-    ──「 sᴜᴋᴜɴ ☯︎ ᴍᴜsɪᴄ ʀᴏʙᴏᴛ 」──
+    ──「 ᴀʟᴏɴᴇ ☯︎ ᴍᴜsɪᴄ ʀᴏʙᴏᴛ 」──
 </h2>
 
 <p align="center">
-  <img src="https://github.com/sukunbots/sukunrobotmusic/blob/master/sukunrobotmusic/resources/fglitch.gif">
+  <img src="https://github.com/DilwarBot/AloneMUsicRobo/blob/master/sukunrobotmusic/resources/fglitch.gif">
 </p>
 
-_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [「 sᴜᴋᴜɴ ☯︎ ᴍᴜsɪᴄ ʀᴏʙᴏᴛ 」](https://t.me/sukunmusicrobot)**_
+_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [「 ᴀʟᴏɴᴇ ☯︎ ᴍᴜsɪᴄ ʀᴏʙᴏᴛ 」](https://t.me/DaisyXRobot)**_
 ━━━━━━━━━━━━━━━━━━━━
 
 <p align="center">
@@ -25,7 +25,7 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [「 sᴜᴋᴜɴ �
 ━━━━━━━━━━━━━━━━━━━━
 
 <p align="center">
-  <img src="https://telegra.ph/file/db5b65bf75385ff2e4017.jpg">
+  <img src="https://telegra.ph/file/a9814904340a6f4a994eb.jpg">
 </p>
 
 <p align="center">
@@ -36,7 +36,7 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [「 sᴜᴋᴜɴ �
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/sukunbots/sukunrobotmusicv1"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/DilwarBot/AloneMUsicRobo"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 ━━━━━━━━━━━━━━━━━━━━
 
@@ -45,10 +45,10 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [「 sᴜᴋᴜɴ �
 </h3>
 
 <p align="center">
-<a href="https://telegram.me/sukunsupports"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/The_Alone_Network"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <p align="center">
-<a href="https://telegram.me/Bhumi_ha_r"><img src="https://img.shields.io/badge/%20Sukun-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/ALONE_CHATTING_WORLD"><img src="https://img.shields.io/badge/%20Sukun-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 ━━━━━━━━━━━━━━━━━━━━
